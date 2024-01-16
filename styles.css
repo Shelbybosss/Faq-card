@@ -140,3 +140,8 @@ hr{
         height: auto; 
     }
 }
+
+.fourth:hover{
+    cursor: pointer;
+    color: hsl(292, 16%, 49%);
+}
